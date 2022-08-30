@@ -49,7 +49,7 @@ menu:
     - identifier: 关于我
       name: 关于我
       pre: <i class="sidebar-button-icon fas fa-lg fa-smile" aria-hidden="true"></i>
-      url: /archives
+      url: /about
       weight: 5
   links:
     - identifier: github
