@@ -70,7 +70,7 @@ menu:
     - identifier: 邮箱
       name: 邮箱
       pre: <i class="sidebar-button-icon fas fa-lg fa-envelope" aria-hidden="true"></i>
-      url: mailto:tiewzj@163，com
+      url: mailto:tiewzj@163.com
       weight: 4
     - identifier: rss
       name: RSS
