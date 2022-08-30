@@ -41,7 +41,7 @@ title: About Me
 
 合集内容，包括但不限于：
 
-- 保姆级毕业论文教程（已完成，待整理为Bookdown）
+- [保姆级毕业论文教程](https://tie-blog.netlify.app/2020/07/%E4%BF%9D%E5%A7%86%E7%BA%A7%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87%E5%AE%9E%E6%93%8D%E6%95%99%E7%A8%8B/)（已完成，待整理为Bookdown）
 - 引言精读合集（已更新六期，预计十期，完成后将整理为Bookdown）
 - 方法精读合集（更新ing）
 - 数据复现合集（更新ing）
