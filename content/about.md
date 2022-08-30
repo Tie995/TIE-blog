@@ -55,7 +55,7 @@ title: About Me
 **[Bilibili](https://space.bilibili.com/113946194)** ： 包含了部分教程和我的日常 Vlog 。
 
 - 操作教程，如 {{< bilibili  BV1Wv411J7TF>}}
-- 日常记录，如 {{< bilibili  BV1pr4y1t7af>}}
+- 日常记录，如 {{< bilibili  BV1LS4y1978s>}}
 
 ---
 
