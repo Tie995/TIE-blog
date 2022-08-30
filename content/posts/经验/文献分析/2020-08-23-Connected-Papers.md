@@ -4,7 +4,7 @@ categories:
 - 文献分析
 date: "2020-08-23"
 tags:
-- 工具
+- Tools
 title: Connected Papers
 ---
 
