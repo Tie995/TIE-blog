@@ -29,12 +29,12 @@ menu:
     - identifier: 首页
       name: 首页
       pre: <i class="sidebar-button-icon fas fa-lg fa-home" aria-hidden="true"></i>
-      url: /categories
-      weight: 1
-    - identifier: 最新
-      name: 最新
-      pre: <i class="sidebar-button-icon fas fa-lg fa-bookmark" aria-hidden="true"></i>
       url: /
+      weight: 1
+    - identifier: 分类
+      name: 分类
+      pre: <i class="sidebar-button-icon fas fa-lg fa-bookmark" aria-hidden="true"></i>
+      url: /categories
       weight: 2
     - identifier: 标签
       name: 标签
