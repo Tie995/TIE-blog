@@ -4,7 +4,7 @@ categories:
 - 配对研究
 date: "2022-04-17"
 tags:
-- Social relations modeling
+- Social Relations Modeling
 title: SRM丨社会关系模型之基本模板
 
 ---
