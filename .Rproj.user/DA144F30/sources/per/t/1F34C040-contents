@@ -1,0 +1,107 @@
+baseURL: https://tie-blog.netlify.app/
+languageCode: zh-cn
+defaultContentLanguage: zh-cn
+title: TIE's Blog
+theme: hugo-tranquilpeak-theme
+disqusShortname: TIEhome
+googleAnalytics: UA-116908965-1
+paginate: 7
+canonifyurls: yes
+permalinks:
+  posts: /:year/:month/:slug/
+taxonomies:
+  archive: archives
+  category: categories
+  tag: tags
+markup:
+  tableOfContents:
+    endLevel: 3
+    ordered: no
+    startLevel: 1
+author:
+  bio: 管理学在读博士生
+  job: Ph.D Candidate
+  location: Wuhan, China
+  name: TIE
+  picture: /img/logo.jpg
+menu:
+  main:
+    - identifier: 首页
+      name: 首页
+      pre: <i class="sidebar-button-icon fas fa-lg fa-home" aria-hidden="true"></i>
+      url: /
+      weight: 1
+    - identifier: 系列
+      name: 系列
+      pre: <i class="sidebar-button-icon fas fa-lg fa-bookmark" aria-hidden="true"></i>
+      url: /categories
+      weight: 2
+    - identifier: 标签
+      name: 标签
+      pre: <i class="sidebar-button-icon fas fa-lg fa-tags" aria-hidden="true"></i>
+      url: /tags
+      weight: 3
+    - identifier: 归档
+      name: 归档
+      pre: <i class="sidebar-button-icon fas fa-lg fa-archive" aria-hidden="true"></i>
+      url: /archives
+      weight: 4
+    - identifier: 关于我
+      name: 关于我
+      pre: <i class="sidebar-button-icon fas fa-lg fa-smile" aria-hidden="true"></i>
+      url: /about
+      weight: 5
+  links:
+    - identifier: github
+      name: GitHub
+      pre: <i class="sidebar-button-icon fab fa-lg fa-github" aria-hidden="true"></i>
+      url: https://github.com/Tie995
+      weight: 3
+    - identifier: 公众号
+      name: 公众号
+      pre: <i class="sidebar-button-icon fab fa-brands fa-weixin" aria-hidden="true"></i>
+      url: https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzIwMDk1OTM2OQ==#wechat_redirect
+      weight: 1
+    - identifier: Bilibili
+      name: Bilibili
+      pre: <i class="sidebar-button-icon fas fa-lg fa-tv" aria-hidden="true"></i>
+      url: https://space.bilibili.com/113946194
+      weight: 2
+    - identifier: 邮箱
+      name: 邮箱
+      pre: <i class="sidebar-button-icon fas fa-lg fa-envelope" aria-hidden="true"></i>
+      url: mailto:tiewzj@163，com
+      weight: 4
+    - identifier: rss
+      name: RSS
+      pre: <i class="sidebar-button-icon fas fa-lg fa-rss" aria-hidden="true"></i>
+      url: /index.xml
+      weight: 5
+params:
+  autoThumbnailImage: yes
+  clearReading: no
+  comment:
+    gitalk:
+      enable: no
+      options:
+        distractionFreeMode: no
+        enableHotKey: yes
+        language: en
+        pagerDirection: first
+        perPage: 10
+  coverImage: /img/cover.jpg
+  description: TIE's Blog
+  footer:
+    copyright: TIE | Theme modified from <a href="https://github.com/kakawait/hugo-tranquilpeak-theme">Tranquilpeak</a>
+  header:
+    rightLink:
+      class: ''
+      icon: ''
+      url: /
+  hierarchicalCategories: yes
+  imageGallery: yes
+  sidebarBehavior: 1
+  syntaxHighlighter: highlight.js
+  thumbnailImage: yes
+  thumbnailImagePosition: bottom
+  dateFormat: "2006-01-02"
