@@ -4,7 +4,7 @@ categories:
 - 配对研究
 date: "2022-04-17"
 tags:
-- Social Relations Modeling
+- Social relations analysis
 title: SRM丨社会关系模型之基本模板
 
 ---
@@ -13,7 +13,7 @@ title: SRM丨社会关系模型之基本模板
 
 <!--more-->
 
-小可爱们好，好久没和小可爱们介绍方法啦，所以我们这期来学习一篇使用了social relations modeling的文章。
+小可爱们好，好久没和小可爱们介绍方法啦，所以我们这期来学习一篇使用了Social relations analysis的文章。
 
 
 
@@ -110,7 +110,7 @@ Members compare their differential leader-member exchanges (LMXs) to understand 
 
 啦啦啦，这篇文献的介绍就到这里啦。
 
-Social relations modeling算是一种比较小众的方法。萜妹个人认为它的难点在于数据收取阶段，即如何能获得这种类型的数据，并保障数据质量。毕竟它需要团队内的员工相互评分，即使只有两三个变量，团队人数一多，问卷题量也会蹭蹭蹭上涨。
+Social relations analysis算是一种比较小众的方法。萜妹个人认为它的难点在于数据收取阶段，即如何能获得这种类型的数据，并保障数据质量。毕竟它需要团队内的员工相互评分，即使只有两三个变量，团队人数一多，问卷题量也会蹭蹭蹭上涨。
 
 但是如果能有对接的公司进行这类型的数据收集，它会能更具体的解决一些问题。萜妹自己是很喜欢这种方法，希望有朝一日能做一次这种研究，hhh
 
@@ -128,4 +128,4 @@ Social relations modeling算是一种比较小众的方法。萜妹个人认为�
 
 **原文链接：**
 
-**[➪范文丨小众方法-Social relations modeling](https://mp.weixin.qq.com/s?__biz=MzIwMDk1OTM2OQ==&mid=2247486555&idx=1&sn=01d0ac6da97e91e66b6cc32511a31c1f&chksm=96f478bda183f1abc3a4cd6f012f96ac0a41c87ed1455ffb524a68c46191beb137af81947d20&scene=21#wechat_redirect)**
+**[➪范文丨小众方法-Social relations analysis](https://mp.weixin.qq.com/s?__biz=MzIwMDk1OTM2OQ==&mid=2247486555&idx=1&sn=01d0ac6da97e91e66b6cc32511a31c1f&chksm=96f478bda183f1abc3a4cd6f012f96ac0a41c87ed1455ffb524a68c46191beb137af81947d20&scene=21#wechat_redirect)**

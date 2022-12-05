@@ -158,7 +158,7 @@ LCS的实际操作我还没尝试过，这方面的原理学习也是我在听�
 
 **往期推送**
 
-**[➪范文丨小众方法-Social relations modeling](https://mp.weixin.qq.com/s?__biz=MzIwMDk1OTM2OQ==&mid=2247486555&idx=1&sn=01d0ac6da97e91e66b6cc32511a31c1f&chksm=96f478bda183f1abc3a4cd6f012f96ac0a41c87ed1455ffb524a68c46191beb137af81947d20&scene=21#wechat_redirect)**
+**[➪范文丨小众方法-Social relations analysis](https://mp.weixin.qq.com/s?__biz=MzIwMDk1OTM2OQ==&mid=2247486555&idx=1&sn=01d0ac6da97e91e66b6cc32511a31c1f&chksm=96f478bda183f1abc3a4cd6f012f96ac0a41c87ed1455ffb524a68c46191beb137af81947d20&scene=21#wechat_redirect)**
 
 **[➪范文丨被调节的双重中介模型](https://mp.weixin.qq.com/s?__biz=MzIwMDk1OTM2OQ==&mid=2247485713&idx=1&sn=ef4a2a2ffe951a42248d96fd6d970e43&chksm=96f47df7a183f4e172978aacd0fb7dc61ce498cd52997533350c2c15acc6486c0ef453493fff&token=2121147346&lang=zh_CN&scene=21#wechat_redirect)**
 
