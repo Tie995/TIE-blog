@@ -19,7 +19,7 @@ title: About Me
 其中，学习部分，包括但不限于：
 
 - 数据分析操作，如 [数据分析之跨层模型检验](https://mp.weixin.qq.com/s?__biz=MzIwMDk1OTM2OQ==&mid=2247485284&idx=1&sn=a7e8713d63974998019355bc2f054939&chksm=96f47382a183fa946bd46de0bd2fba4945d3ded96055f6949fa8c903a76284ae6b082ceeba59&scene=21#wechat_redirect)
-- 学术前沿方法，如 [小众方法-Social relations modeling](https://mp.weixin.qq.com/s?__biz=MzIwMDk1OTM2OQ==&mid=2247486555&idx=1&sn=01d0ac6da97e91e66b6cc32511a31c1f&chksm=96f478bda183f1abc3a4cd6f012f96ac0a41c87ed1455ffb524a68c46191beb137af81947d20&scene=21#wechat_redirect)
+- 学术前沿方法，如 [小众方法-Social relations analysis](https://mp.weixin.qq.com/s?__biz=MzIwMDk1OTM2OQ==&mid=2247486555&idx=1&sn=01d0ac6da97e91e66b6cc32511a31c1f&chksm=96f478bda183f1abc3a4cd6f012f96ac0a41c87ed1455ffb524a68c46191beb137af81947d20&scene=21#wechat_redirect)
 - 公开数据复现，如 [基于R的实验检验](https://mp.weixin.qq.com/s?__biz=MzIwMDk1OTM2OQ==&mid=2247486620&idx=1&sn=cd74ffc016d143f134d8add8eac419cf&chksm=96f4787aa183f16c03596223e0ff7c271ff7708eacc209d59953408b470955ad69372254590a#rd)
 - 优质论文精读，如 [顶刊引言精读](https://mp.weixin.qq.com/s?__biz=MzIwMDk1OTM2OQ==&mid=2247486332&idx=1&sn=0b443c91c5a44053aafb667f83e27910&chksm=96f47f9aa183f68cabff1b9dd593c8fb37350a214a0a4e440e91c099cf9d937a59cdac29b4b3&scene=21#wechat_redirect)
 - 经典研究理论，如 [社会距离理论](https://mp.weixin.qq.com/s?__biz=MzIwMDk1OTM2OQ==&mid=2247485747&idx=1&sn=203289d701f3ede0757cea473b7f4fa9&chksm=96f47dd5a183f4c3eefd204ee530377306c9fc4dabd26cba3b73b48cb689f209ea208e8c570d#rd)
@@ -43,7 +43,7 @@ title: About Me
 
 - [提升效率的好物合集](https://tie-blog.netlify.app/1/01/%E5%90%88%E9%9B%86%E4%B8%A8%E6%8F%90%E5%8D%87%E6%95%88%E7%8E%87%E7%9A%84%E5%A5%BD%E7%89%A9%E5%88%86%E4%BA%AB/)（持续更新）
 - [保姆级毕业论文教程](https://tie-blog.netlify.app/2020/07/%E4%BF%9D%E5%A7%86%E7%BA%A7%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87%E5%AE%9E%E6%93%8D%E6%95%99%E7%A8%8B/)（已完成，待整理为Bookdown）
-- 引言精读合集（内容更新6/10，待整理为Bookdown）
+- [引言精读合集](https://tie995.github.io/_book/)（已完成）
 - 方法精读合集（内容更新23/……，待整理为Bookdown）
 - 数据复现合集（内容更新3/……，待整理为Bookdown）
 - 假设精读合集（筹备ing，更完引言精读后开始）
