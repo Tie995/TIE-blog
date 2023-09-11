@@ -15,8 +15,6 @@ title: SRM丨社会关系模型之基本模板
 
 小可爱们好，好久没和小可爱们介绍方法啦，所以我们这期来学习一篇使用了Social relations analysis的文章。
 
-
-
 # 整体介绍
 
 ## 摘要
@@ -27,7 +25,7 @@ Members compare their differential leader-member exchanges (LMXs) to understand 
 
 ## 理论模型
 
-{{< image src="/img/post/20220417/1.png">}}
+![img](https://tie-1315290370.cos.ap-beijing.myqcloud.com/TIE/202309112224568.png)
 
 假设1：A和B的LMX比较相互作用，能预测A对B的亲和行为。具体而言：
 
@@ -54,16 +52,16 @@ Members compare their differential leader-member exchanges (LMXs) to understand 
 
 各测量例题如下：
 
-- LMX比较：“My supervisor enjoys the company of [X] more than he/she enjoys my company”
+- LMX比较：“My supervisor enjoys the company of more than he/she enjoys my company”
 - 帮助行为（Study1）：“He/she takes a personal interest in me”
 - 亲和行为（Study2）：“I invite him/her to do things together”
 - CWX：“How would you characterize your working relationship with him/her?”
 
 ## 分析策略
 
-{{< image src="/img/post/20220417/2.png">}}
+![img](https://tie-1315290370.cos.ap-beijing.myqcloud.com/TIE/202309112224760.png)
 
-本研究中的循环数据具有嵌套结构，因为成员嵌套在关系（即二元组）和团队内。为了处理这种嵌套结构产生的统计依赖性，作者使用了 Kenny 等 (2006) 的社会关系建模 (SRM) 技术来检验研究模型。SRM 已用于检查团队内的二元关系的先前研究。它是一种分析关系数据的方法，其中**因变量的方差是由于****参****与者（A）、目标（B）、二元（A、B间的二元关系）和团队。**这种分析方法的独特之处在于它隔离了社会关系中的差异，并在多个分析层次上检验了假设。在**控制**了由**参与者、目标和团队引起的因变量的方差**后，**SRM 分离出由于二元特征引起的方差**，并在二元水平检查自变量对因变量的影响。因此，它要求因变量的大部分方差可归因于参与者和目标之间的二元关系的特征。
+本研究中的循环数据具有嵌套结构，因为成员嵌套在关系（即二元组）和团队内。为了处理这种嵌套结构产生的统计依赖性，作者使用了 Kenny 等 (2006) 的社会关系建模 (SRM) 技术来检验研究模型。SRM 已用于检查团队内的二元关系的先前研究。它是一种分析关系数据的方法，其中**因变量的方差是由于\**\*\*参\*\**\*与者（A）、目标（B）、二元（A、B间的二元关系）和团队。\**这种分析方法的独特之处在于它隔离了社会关系中的差异，并在多个分析层次上检验了假设。在\**控制**了由**参与者、目标和团队引起的因变量的方差**后，**SRM 分离出由于二元特征引起的方差**，并在二元水平检查自变量对因变量的影响。因此，它要求因变量的大部分方差可归因于参与者和目标之间的二元关系的特征。
 
 通俗的来讲，这里的亲和行为其实受到了4个方面的因素影响。
 
@@ -72,7 +70,7 @@ Members compare their differential leader-member exchanges (LMXs) to understand 
 - 团队（Group）：即团队特质，比如在一个非常和谐的团队，所有成员彼此很亲和。类似于传统的多层数据。
 - 二元（Dyad）：即A和B之间的某种关系，这才是我们想研究的部分，所以要把其他三个干扰层控制住。
 
-{{< image src="/img/post/20220417/3.png">}}
+![img](https://tie-1315290370.cos.ap-beijing.myqcloud.com/TIE/202309112224615.png)
 
 这种分析方法产生随机效应和固定效应的估计值。在这项研究中，随机估计表明A对B的帮助行为、A对B的亲和行为以及A和B之间的 CWX 的差异有多少可以通过 A、B、A-B 二元和团队的特征来解释。需要明确的是，**A-B 和 B-A 二元组是两个不同的二元组**，因为因变量的解释方差是不同的（例如，A 对 B 的帮助行为和 B 对 A 的帮助行为）。此外，固定估计值表明自变量（即A和B的LMX二元比较）与因变量（即 A对B的帮助行为、A对B的亲和行为以及A和B之间的 CWX）之间关系的强度）。这些估计值与普通最小二乘回归分析中的回归系数相当。在分析之前将**自变量标准化**以最小化多重共线性的可能性并增加结果的可解释性。
 
@@ -82,11 +80,11 @@ Members compare their differential leader-member exchanges (LMXs) to understand 
 
 张三-李四 和 李四-张三 本质上是两组数据，一个反应的是张三对李四的亲和行为，另一个反应的是李四对张三的亲和行为，并不等同。
 
-{{< image src="/img/post/20220417/4.png">}}
+![img](https://tie-1315290370.cos.ap-beijing.myqcloud.com/TIE/202309112224711.png)
 
 作者使用 MLwiN 软件包进行 SRM 分析。作者首先计算了一个“零模型”，该模型用于将A对B的帮助行为、A对B的亲和行为以及A和B之间的 CWX 的方差划分为个体、二元和群体方差。接下来，作者添加了控制变量、两个主效应（A和B的 LMX二元比较）和交互项（即A的LMX 二元比较 * B的LMX二元比较）来检验假设 1 和假设 2a。作者使用卡方差异检验评估模型拟合改进的重要性，以减少每个模型之间的对数似然性。根据Preacher等（2007）的建议，作者使用蒙特卡罗法来检验假设 2b。
 
-有一个可以分析SRM的网站，分享给大家：[https://davidakenny.shinyapps.io/SRM_R/](https://davidakenny.shinyapps.io/SRM_R/)
+有一个可以分析SRM的网站，分享给大家：https://davidakenny.shinyapps.io/SRM_R/
 
 ## 结果
 
@@ -94,11 +92,11 @@ Members compare their differential leader-member exchanges (LMXs) to understand 
 
 （这里其实就类比于普通多层分析中的ICC）
 
-{{< image src="/img/post/20220417/5.png">}}
+![img](https://tie-1315290370.cos.ap-beijing.myqcloud.com/TIE/202309112224674.png)
 
 随后假设部分的结果呈现并没有什么不同。
 
-{{< image src="/img/post/20220417/6.png">}}
+![img](https://tie-1315290370.cos.ap-beijing.myqcloud.com/TIE/202309112224826.png)
 
 ## 补充分析
 
@@ -106,7 +104,7 @@ Members compare their differential leader-member exchanges (LMXs) to understand 
 
 然后，作者针对学生样本又做了一个Study，证明了上述机制。
 
----
+------
 
 啦啦啦，这篇文献的介绍就到这里啦。
 

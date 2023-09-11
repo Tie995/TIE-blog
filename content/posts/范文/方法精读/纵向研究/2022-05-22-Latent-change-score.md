@@ -27,7 +27,7 @@ The coronavirus disease 2019 (COVID-19) pandemic continues to create tremendous 
 
 ## 理论模型
 
-{{< image src="/img/post/20220522/1.png">}}
+![img](https://tie-1315290370.cos.ap-beijing.myqcloud.com/TIE/202309112228378.png)
 
 假设1：新冠前（T1）到新冠中（T2）的工作不安全感增加（减少），与新冠中（T2）到新冠后（T3）的组织认同减少（增加）有关。
 
@@ -43,8 +43,6 @@ H3: Organizational identification (increase in T2 to T3) → Work efforts(a), OC
 
 总的来说，这其实就是两个前因，一个中介，三个结果的模型。有意思的地方在于，它研究的是变化。
 
-
-
 # 研究方法
 
 ## 样本
@@ -55,7 +53,7 @@ H3: Organizational identification (increase in T2 to T3) → Work efforts(a), OC
 
 ## 程序
 
-{{< image src="/img/post/20220522/2.png">}}
+![img](https://tie-1315290370.cos.ap-beijing.myqcloud.com/TIE/202309112228249.png)
 
 问卷收集包含了3个时间点，每个时间点都测量了所有变量。文中提供了完整的量表。
 
@@ -67,15 +65,15 @@ We used a full-information maximum likelihood (FIML) approach to handling missin
 
 ### LCS基本原理——单变量模型
 
-{{< image src="/img/post/20220522/3.png">}}
+![img](https://tie-1315290370.cos.ap-beijing.myqcloud.com/TIE/202309112228427.png)
 
-Figure 2 presents an example of a univariate LCS model for X variable that was measured at Time 1, Time 2, and Time 3. In the model, Δxt is a latent variable representing the intraindividual change of X variable from t − 1 to t. Δxt is a function of xt − 1 (β paths) and the latent slope (α paths). The β paths are estimated and represent the proportional change that occurs in the X variable from t − 1 to t. The α paths are fixed to 1.0 and represent constant change over time, carrying the influence of the latent slope’s mean (μs). The latent intercept is modeled to affect x1. Building on univariate LCS models, a multivariate LCS model can be developed to examine the relationships between two or more repeatedly measured variables (Grimm et al., 2012). 
+Figure 2 presents an example of a univariate LCS model for X variable that was measured at Time 1, Time 2, and Time 3. In the model, Δxt is a latent variable representing the intraindividual change of X variable from t − 1 to t. Δxt is a function of xt − 1 (β paths) and the latent slope (α paths). The β paths are estimated and represent the proportional change that occurs in the X variable from t − 1 to t. The α paths are fixed to 1.0 and represent constant change over time, carrying the influence of the latent slope’s mean (μs). The latent intercept is modeled to affect x1. Building on univariate LCS models, a multivariate LCS model can be developed to examine the relationships between two or more repeatedly measured variables (Grimm et al., 2012).
 
 图 2 展示了在时时点1、时点2和时点3测量的X变量的单变量 LCS 模型示例。在模型中，Δxt 是一个潜变量，表示 X 变量从 t-1 到 t 的个体内变化。**Δxt 是 xt - 1（β 路径）和潜在斜率（α 路径）的函数。**β 路径被估计并代表 X 变量从 t - 1 到 t 的比例变化。α 路径固定为 1.0，表示随时间的恒定变化，带有潜在斜率平均值 (μs) 的影响。潜截距会影响 x1。在单变量 LCS 模型的基础上，可以开发多变量 LCS 模型来检查两个或多个重复测量变量之间的关系。
 
 ### LCS基本原理——多变量模型
 
-{{< image src="/img/post/20220522/4.png">}}
+![img](https://tie-1315290370.cos.ap-beijing.myqcloud.com/TIE/202309112228297.png)
 
 Figure 3 presents an example of a multivariate LCS model for the relationship between the X variable, OI, and Y variable. In the model, Δxt can be a function of y at previous times (γy, x paths) and Δyt can be a function of x at previous times (γx, y paths). γ paths can be estimated and are referred to as coupling effects that reflect the extent to which changes of one variable from t − 1 to t are affected by the level of another variable at previous times. Moreover, in a multivariate LCS model, Δx can be a function of Δy (ξy, x paths) and Δy can be a function of Δx (ξx, y paths). ξ paths can be estimated and are referred to as change-to-change effects that reflect the extent to which changes of one variable are affected by changes of another variable. ξ are the parameters used for testing our hypotheses.
 
@@ -91,26 +89,26 @@ In particular, to estimate the change-to-change effects presented in Hypotheses 
 
 为了保证有效性，作者进行了额外控制：
 
-- coupling effects of X1 on ΔM3 (γx,OI) as well as M1 on ΔX3 (γOI,x) 
+- coupling effects of X1 on ΔM3 (γx,OI) as well as M1 on ΔX3 (γOI,x)
 - the reversed effects of ΔM2 on ΔX3(ξOI,x)
 
 萜妹建议大家对照图3比划比划，可以加深理解。
 
 ### **假设检验原理——假设3**
 
-To estimate the change-to-change effect presented in Hypothesis 3, we focused on the effect of Δorganizational identification3 on Δoutcomes3 (ξOI,y in Figure 3). In estimating this effect, we also modeled (a) coupling effects of organizational identification at Time 2 on Δoutcomes3 (γOI, y in Figure 3), and outcomes at Time 2 on Δorganizational identification3 (γy, OI in Figure 3); (b) the reversed effects of Δoutcomes3 on Δorganizational identification3 (ξy, OI in Figure 3); (c) coupling effects of pre-COVID environmental uncertainty and job insecurity on Δoutcomes3 (γx, y in Figure 3), as well as pre-COVID outcomes on Δenvironmental uncertainty3 and Δjob insecurity3 (γy,x in Figure 3); (d) the reversed effects of Δoutcomes2 on Δenvironmental uncertainty3 and Δjob insecurity3 (ξy, x in Figure 3); (e) the effects of Δanxiety3 on Δoutcomes3; (f) coupling effects of anxiety at Time 2 on Δoutcomes3, and outcomes at Time 2 on Δanxiety3; and (g) the reversed effects of Δoutcomes3 on Δanxiety3. 
+To estimate the change-to-change effect presented in Hypothesis 3, we focused on the effect of Δorganizational identification3 on Δoutcomes3 (ξOI,y in Figure 3). In estimating this effect, we also modeled (a) coupling effects of organizational identification at Time 2 on Δoutcomes3 (γOI, y in Figure 3), and outcomes at Time 2 on Δorganizational identification3 (γy, OI in Figure 3); (b) the reversed effects of Δoutcomes3 on Δorganizational identification3 (ξy, OI in Figure 3); (c) coupling effects of pre-COVID environmental uncertainty and job insecurity on Δoutcomes3 (γx, y in Figure 3), as well as pre-COVID outcomes on Δenvironmental uncertainty3 and Δjob insecurity3 (γy,x in Figure 3); (d) the reversed effects of Δoutcomes2 on Δenvironmental uncertainty3 and Δjob insecurity3 (ξy, x in Figure 3); (e) the effects of Δanxiety3 on Δoutcomes3; (f) coupling effects of anxiety at Time 2 on Δoutcomes3, and outcomes at Time 2 on Δanxiety3; and (g) the reversed effects of Δoutcomes3 on Δanxiety3.
 
 理解了假设1、2后，假设3就很好理解了。假设3要检验ΔM3on ΔY3 (ξOI,y)。控制的部分包括：
 
 中介变量部分：
 
 - coupling effects of M2 on ΔY3 as well as Y2 on ΔM3
-- the reversed effects of ΔY3 on ΔM3  
+- the reversed effects of ΔY3 on ΔM3
 
 自变量部分：
 
 - coupling effects of X1 on ΔY3 as well as Y1 on ΔX3
-- the reversed effects of ΔY2 on ΔX3  
+- the reversed effects of ΔY2 on ΔX3
 
 控制变量部分，并未画在图3上：
 
@@ -130,13 +128,13 @@ Modeling these effects allows a more rigorous test of Hypothesis 3, because it c
 - 度量不变性M2：反映了相同项目对应的负荷是否在时间上相等；
 - 标量不变性M3：表明对应于相同项目的阈值是否在时间上相等。
 
-{{< image src="/img/post/20220522/5.png">}}
+![img](https://tie-1315290370.cos.ap-beijing.myqcloud.com/TIE/202309112228482.png)
 
 随后进行了假设检验。
 
-{{< image src="/img/post/20220522/6.png">}}
+![img](https://tie-1315290370.cos.ap-beijing.myqcloud.com/TIE/202309112228345.png)
 
-{{< image src="/img/post/20220522/7.png">}}
+![img](https://tie-1315290370.cos.ap-beijing.myqcloud.com/TIE/202309112228402.png)
 
 作者后续在补充文件里也有提及补充检验。
 
@@ -146,7 +144,7 @@ Modeling these effects allows a more rigorous test of Hypothesis 3, because it c
 
 由于语句太长，萜妹就没粘贴过来了，小可以们有兴趣可以回原文自行获取。
 
----
+------
 
 啦啦啦，这篇文献的介绍就到这里啦。
 
