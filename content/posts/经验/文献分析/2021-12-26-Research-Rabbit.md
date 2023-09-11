@@ -12,29 +12,23 @@ title: Research Rabbit
 
 <!--more-->
 
-萜妹在一顿摸索之后，今天准备来给大家介绍一下。具体视频可以点击阅读原文观看（已征得UP主授权）。
-
-[https://researchrabbitapp.com/home](https://researchrabbitapp.com/home)
-
-那我们开始吧～
-
 Research Rabbit 作为一种新的文献检索及可视化网站，它和CiteSpace、VOSviewer相比，只是一个网页要更方便，而和Connected papers相比，它不需要翻墙。
 
 它的主页面是这样：
 
-{{< image src="/img/post/20211226/1.png">}}
+![img](https://tie-1315290370.cos.ap-beijing.myqcloud.com/TIE/202309112333627.png)
 
 设置好分组后，点击【Add Paper】就可以添加文献；
 
-{{< image src="/img/post/20211226/2.png">}}
+![img](https://tie-1315290370.cos.ap-beijing.myqcloud.com/TIE/202309112333984.png)
 
 将文献添加到组内后，可以观看文献的具体信息，例如摘要、PDF、参考文献、被引情况、相似文献、文章作者等；
 
-{{< image src="/img/post/20211226/3.png">}}
+![img](https://tie-1315290370.cos.ap-beijing.myqcloud.com/TIE/202309112333998.png)
 
 点击相似文献等，能看到可视化网格；
 
-{{< image src="/img/post/20211226/4.png">}}
+![img](https://tie-1315290370.cos.ap-beijing.myqcloud.com/TIE/202309112333580.png)
 
 然后大家再筛选、添加等等，这其实和传统的可视化工具差别并不大。
 
@@ -48,29 +42,29 @@ Research Rabbit 作为一种新的文献检索及可视化网站，它和CiteSpa
 
 - 在EndNote里，选中想要分析的文献；
 
-{{< image src="/img/post/20211226/5.png">}}
+![img](https://tie-1315290370.cos.ap-beijing.myqcloud.com/TIE/202309112333047.png)
 
 - 点击【File】-【Export】，保存类型选【.txt】，输出样式选【RIS】，点击保存；
 
-{{< image src="/img/post/20211226/6.png">}}
+![img](https://tie-1315290370.cos.ap-beijing.myqcloud.com/TIE/202309112333725.png)
 
 - 将文件的【.txt】后缀，手动改为【.RIS】
 
-{{< image src="/img/post/20211226/7.png">}}
+![img](https://tie-1315290370.cos.ap-beijing.myqcloud.com/TIE/202309112333221.png)
 
 第二步，**将文献导入Research Rabbit**。
 
 - 进入主界面，点击【Add Paper】；
 
-{{< image src="/img/post/20211226/8.png">}}
+![img](https://tie-1315290370.cos.ap-beijing.myqcloud.com/TIE/202309112333209.png)
 
 - 点击【RIS】，导入文件；
 
-{{< image src="/img/post/20211226/9.png">}}
+![img](https://tie-1315290370.cos.ap-beijing.myqcloud.com/TIE/202309112333534.png)
 
 - 文件导入后，可能会有部分文献识别有误，右侧会出现与它匹配的文献，手动点击添加即可。
 
-{{< image src="/img/post/20211226/10.png">}}
+![img](https://tie-1315290370.cos.ap-beijing.myqcloud.com/TIE/202309112333046.png)
 
 第三步，**分析相关文章，查漏补缺**。
 
@@ -78,31 +72,31 @@ Research Rabbit 作为一种新的文献检索及可视化网站，它和CiteSpa
 
   （绿色代表已有文献，蓝色则是不包含的文献）
 
-{{< image src="/img/post/20211226/11.png">}}
+![img](https://tie-1315290370.cos.ap-beijing.myqcloud.com/TIE/202309112333413.png)
 
 - 点击【Later Work】会显示这些文章的被引情况；
 
-{{< image src="/img/post/20211226/12.png">}}
+![img](https://tie-1315290370.cos.ap-beijing.myqcloud.com/TIE/202309112333546.png)
 
 - 右侧点击【Timeline】会从默认的网格视图改为时间视图；
 
-{{< image src="/img/post/20211226/13.png">}}
+![img](https://tie-1315290370.cos.ap-beijing.myqcloud.com/TIE/202309112333878.png)
 
 - 下方还可以点击对作者进行筛选；
 
-{{< image src="/img/post/20211226/14.png">}}
+![img](https://tie-1315290370.cos.ap-beijing.myqcloud.com/TIE/202309112333625.png)
 
 - 点击对应作者，就可以将他的发表可视化；
 
-{{< image src="/img/post/20211226/15.png">}}
+![img](https://tie-1315290370.cos.ap-beijing.myqcloud.com/TIE/202309112333392.png)
 
-{{< image src="/img/post/20211226/16.png">}}
+![img](https://tie-1315290370.cos.ap-beijing.myqcloud.com/TIE/202309112333919.png)
 
 - 再点击任意一篇文章又可看到该文章的具体信息，右上角的PDF按钮为绿时，还可以直接下载对应文献（PS：下文献还是不能完全指望它）
 
-{{< image src="/img/post/20211226/17.png">}}
+![img](https://tie-1315290370.cos.ap-beijing.myqcloud.com/TIE/202309112333121.png)
 
----
+------
 
 以上就是萜妹的个人使用经验。最初看到这个网站时，萜妹觉得眼前一亮；后续进行单篇检索时，我又会觉得这好像对我没有什么大用；然后某一天萜妹突然想到它可以批量化检索，它就再次进入了我的视野。
 
@@ -128,5 +122,4 @@ Research Rabbit 作为一种新的文献检索及可视化网站，它和CiteSpa
 
 **[➪科研必备～AI帮你找参考文献](https://mp.weixin.qq.com/s?__biz=MzI1NjUwMjQxMQ==&mid=2247503648&idx=1&sn=83ad5812bf95b14d9b0edb101d8453b6&scene=21#wechat_redirect)**
 
-**原文链接：**
-**[➪文献查找之Research Rabbit](https://mp.weixin.qq.com/s?__biz=MzIwMDk1OTM2OQ==&mid=2247486132&idx=1&sn=8754765a457a6277a2a4dcf6e83cb6cd&chksm=96f47e52a183f7449a049f84ef2222c71d4daf7499bebeb5278a12f30b2ea30cee83ee804fb0&token=1547359331&lang=zh_CN#rd)**
+**原文链接：** **[➪文献查找之Research Rabbit](https://mp.weixin.qq.com/s?__biz=MzIwMDk1OTM2OQ==&mid=2247486132&idx=1&sn=8754765a457a6277a2a4dcf6e83cb6cd&chksm=96f47e52a183f7449a049f84ef2222c71d4daf7499bebeb5278a12f30b2ea30cee83ee804fb0&token=1547359331&lang=zh_CN#rd)**

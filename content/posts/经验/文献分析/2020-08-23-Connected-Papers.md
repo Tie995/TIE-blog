@@ -12,11 +12,11 @@ title: Connected Papers
 
 <!--more-->
 
-{{< image src="/img/post/20200823/1.png">}}
+![img](https://tie-1315290370.cos.ap-beijing.myqcloud.com/TIE/202309112333001.png)
 
 萜妹自己使用后的感受是，它的功能有限，但操作简便。秉承着技多不压身的理念，我还是决定和小可爱们分享分享。
 
----
+------
 
 # **网站介绍**
 
@@ -30,21 +30,19 @@ Connected papers是一个可视化的工具，可以用来发现、探索工作�
 
 需要注意的是，**浏览网站需要翻墙**。不然会是一片空白，或者无法加载。
 
-
-
 # **操作步骤**
 
 ①进入网站后，得到如下页面。
 
-{{< image src="/img/post/20200823/2.png">}}
+![img](https://tie-1315290370.cos.ap-beijing.myqcloud.com/TIE/202309112333357.png)
 
 ②在搜索框输入文献名 / DOI / 作者名。
 
-{{< image src="/img/post/20200823/3.png">}}
+![img](https://tie-1315290370.cos.ap-beijing.myqcloud.com/TIE/202309112333345.png)
 
 ③选中目标期刊，点击【Build a graph】。
 
-{{< image src="/img/post/20200823/4.png">}}
+![img](https://tie-1315290370.cos.ap-beijing.myqcloud.com/TIE/202309112333970.png)
 
 其实右侧就是与目标文献相关的文献了，这里并不会列出有关的所有文献，而是会依据它的算法，算出几十篇它认为相关度高的文献。
 
@@ -56,11 +54,11 @@ Connected papers是一个可视化的工具，可以用来发现、探索工作�
 
 ④点击【Expand】，可以看见这些文献是以相关度排序，满分为100。
 
-{{< image src="/img/post/20200823/5.png">}}
+![img](https://tie-1315290370.cos.ap-beijing.myqcloud.com/TIE/202309112333527.png)
 
 ⑤点击左上角的【Prior works】/【Derivative works】可以看到先前或之后衍生的文献。
 
-{{< image src="/img/post/20200823/6.png">}}
+![img](https://tie-1315290370.cos.ap-beijing.myqcloud.com/TIE/202309112333919.png)
 
 【Prior works】中，选择任意一篇，左侧会显示后续对其进行引用的文献；
 
@@ -68,19 +66,17 @@ Connected papers是一个可视化的工具，可以用来发现、探索工作�
 
 ⑥点击右侧红框中的【Build a graph】，会再以该篇文献为核心，重新生成一个图谱。
 
-{{< image src="/img/post/20200823/7.png">}}
+![img](https://tie-1315290370.cos.ap-beijing.myqcloud.com/TIE/202309112333154.png)
 
 可点击【View graph】或者在【My graphs】中查看新生成的图谱。
 
 ⑦点击最右侧黄框中的【Paper details】则可跳转Semantic Scholar中的相关页面。
 
-{{< image src="/img/post/20200823/8.png">}}
+![img](https://tie-1315290370.cos.ap-beijing.myqcloud.com/TIE/202309112333127.png)
 
 点击【View PDF】可以跳转PDF界面。
 
 这里并不保证所有资源都能免费获取，但是即使获取不了，知道名字了我们也好找，对吧。
-
-
 
 # **优劣分析**
 
@@ -96,9 +92,9 @@ Connected papers是一个可视化的工具，可以用来发现、探索工作�
 
 另外，就我个人的几次尝试加之看见其他网友的评论，我发现这里的文献有限，有的领域可能没有。**并不是所有文献都可以建立图谱**，尤其是较新的文章。如果建立失败，则如下图所示：
 
-{{< image src="/img/post/20200823/9.png">}}
+![img](https://tie-1315290370.cos.ap-beijing.myqcloud.com/TIE/202309112333433.png)
 
----
+------
 
 啦啦啦，这个网站的介绍就到这里啦。其实也没分享太多内容，毕竟我也刚接触这个网站不久，不过感觉它还是值得进收藏夹的，所以来和小可爱们分享。
 
@@ -109,8 +105,6 @@ Connected papers是一个可视化的工具，可以用来发现、探索工作�
 最后，希望这个网站可以帮助到小可爱们，小可爱们有什么好的工具或者找文献的方法也可以跟萜妹交流呀~
 
 小可爱们，下周见~
-
-
 
 **往期推送**
 

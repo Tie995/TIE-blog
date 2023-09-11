@@ -17,15 +17,15 @@ title: EndNote丨自动导入PDF
 
 **Step 1** 新建一个目标文件夹（建在哪、叫什么都无所谓）
 
-{{< image src="/img/post/20211031/1.png">}}
+![img](https://tie-1315290370.cos.ap-beijing.myqcloud.com/TIE/202309112336537.png)
 
 **Step 2** 在EndNote中，选择【Edit】-【Preferences】
 
-{{< image src="/img/post/20211031/2.png">}}
+![img](https://tie-1315290370.cos.ap-beijing.myqcloud.com/TIE/202309112336527.png)
 
 **Step 3** 点击【PDF Handing】，勾选【Enable automatic importing】，点击【Select Folder】，选择新建的目标文件夹
 
-{{< image src="/img/post/20211031/3.png">}}
+![img](https://tie-1315290370.cos.ap-beijing.myqcloud.com/TIE/202309112336674.png)
 
 勾选后，只要打开EndNote就会启用自动导入；
 
@@ -37,17 +37,17 @@ title: EndNote丨自动导入PDF
 
 # **导入示例**
 
-## **单个PDF导入** 
+## **单个PDF导入**
 
 视频有加速，单篇导入时间大概为10s。
 
 成功导入后如下图所示，可以看到插入的PDF已经被重命名了。
 
-{{< image src="/img/post/20211031/4.png">}}
+![img](https://tie-1315290370.cos.ap-beijing.myqcloud.com/TIE/202309112336315.png)
 
 而且原始PDF已经在目标文件夹中删除，会统一进入【Imported】里备份。
 
-{{< image src="/img/post/20211031/5.png">}}
+![img](https://tie-1315290370.cos.ap-beijing.myqcloud.com/TIE/202309112336628.png)
 
 如果不想备份，可以定期清空或者直接删除这个文件夹，并不会影响使用。
 
@@ -57,7 +57,7 @@ title: EndNote丨自动导入PDF
 
 额外说明一点：萜妹在EndNote导入时设置了去重。所以视频里我原本复制了7篇文献，但其中有2篇重复，有1篇已经在我的EndNote库中，最后就只导入了5篇。结果如下图所示：
 
-{{< image src="/img/post/20211031/6.png">}}
+![img](https://tie-1315290370.cos.ap-beijing.myqcloud.com/TIE/202309112336784.png)
 
 可以看到，其中有一篇因为年代久远而没有自动生成引用信息。
 
@@ -67,19 +67,19 @@ title: EndNote丨自动导入PDF
 
 **Step 1** 输入文献的DOI码
 
-{{< image src="/img/post/20211031/7.png">}}
+![img](https://tie-1315290370.cos.ap-beijing.myqcloud.com/TIE/202309112336442.png)
 
 有些PDF里会附有DOI可以直接复制，如果没有就还是需要自行搜索。
 
 **Step 2** 双击点开引用信息，点击下图按钮
 
-{{< image src="/img/post/20211031/8.png">}}
+![img](https://tie-1315290370.cos.ap-beijing.myqcloud.com/TIE/202309112336916.png)
 
 这是一个在线功能，所以**一定要联网**哈！
 
 **Step 3** 信息更新后，点击下图按钮
 
-{{< image src="/img/post/20211031/9.png">}}
+![img](https://tie-1315290370.cos.ap-beijing.myqcloud.com/TIE/202309112336816.png)
 
 然后我们就得到了引用所需的信息啦。
 
@@ -96,22 +96,21 @@ title: EndNote丨自动导入PDF
 
 **Way 1** 在左下角界面单击鼠标右键，选择【File Attachments】-【Rename Attachment】
 
-{{< image src="/img/post/20211031/10.png">}}
+![img](https://tie-1315290370.cos.ap-beijing.myqcloud.com/TIE/202309112336804.png)
 
 然后就可以手动修改PDF名称了。
 
-{{< image src="/img/post/20211031/11.png">}}
+![img](https://tie-1315290370.cos.ap-beijing.myqcloud.com/TIE/202309112336932.png)
 
 **Way 2** 在左下角界面单击鼠标右键，选择【File Attachments】-【Rename PDFs】
 
-{{< image src="/img/post/20211031/12.png">}}
+![img](https://tie-1315290370.cos.ap-beijing.myqcloud.com/TIE/202309112336815.png)
 
 这时标题会按照规定的样式，自动更改。
 
-{{< image src="/img/post/20211031/13.png">}}
+![img](https://tie-1315290370.cos.ap-beijing.myqcloud.com/TIE/202309112336586.png)
 
-
----
+------
 
 啦啦啦，这篇推送就到这里啦。总的来说，这个功能能够帮助我们将以前的文献批量上传至EndNote，也可以快速添加新的文献，算是解决了我使用EndNote的最大困扰。
 
