@@ -89,7 +89,7 @@ params:
         language: en
         pagerDirection: first
         perPage: 10
-  coverImage: /img/cover.jpg
+  coverImage: "https://tie-1315290370.cos.ap-beijing.myqcloud.com/TIE/cover.jpg"
   description: TIE's Blog
   footer:
     copyright: TIE | Theme modified from <a href="https://github.com/kakawait/hugo-tranquilpeak-theme">Tranquilpeak</a>
