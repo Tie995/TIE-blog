@@ -23,7 +23,7 @@ author:
   job: Ph.D Candidate
   location: Wuhan, China
   name: TIE
-  picture: /img/logo.jpg
+  picture: "https://tie-1315290370.cos.ap-beijing.myqcloud.com/TIE/logo.jpg"
 menu:
   main:
     - identifier: 首页
