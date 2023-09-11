@@ -61,5 +61,4 @@ title: About Me
 
 # 欢迎打赏（微信）
 
-{{< image  src="/img/reward.png"  alt="微信打赏">}}
-
+![](https://tie-1315290370.cos.ap-beijing.myqcloud.com/TIE/reward.png)
