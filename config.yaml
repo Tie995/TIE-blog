@@ -5,7 +5,7 @@ title: TIE's Blog
 theme: hugo-tranquilpeak-theme
 disqusShortname: TIEhome
 googleAnalytics: UA-116908965-1
-paginate: 20
+paginate: 10
 canonifyurls: yes
 permalinks:
   posts: /:year/:month/:slug/
