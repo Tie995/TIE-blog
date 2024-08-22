@@ -6,7 +6,7 @@ date: "2024-04-28"
 tags:
 - Mplus
 - R
-title: 如何获得Monte Carlo Bootstrap所需数据
+title: Mplus丨如何获得Monte Carlo Bootstrap所需数据
 ---
 
 由于Mplus没法进行跨层Bootstrap检验，所以我们往往需要借助R进行Monte Carlo分析。
